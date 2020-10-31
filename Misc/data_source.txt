@@ -1,0 +1,7 @@
+
+(신장호) 3주차 공통과제 - 내 프로젝트에 사용할 정보 찾기
+
+1) 한국거래소 (http://www.krx.co.kr): 전 종목 코드 구해 오기// 배당 수익율, PER, PBR 데이터 무료;
+2) Company guide (https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp): 종목별 재무 데이터 구해 오기;
+3) 네이버 금융 (https://finance.naver.com/): 종목별 가격 데이터 가져오기;
+4) 에프앤가이드 (http://www.fnguide.co.kr): 유료 Data
